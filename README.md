@@ -12,4 +12,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabene&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kabene&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

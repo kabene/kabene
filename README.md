@@ -1,8 +1,8 @@
 ### Hi there, I'm <a href="https://www.linkedin.com/in/karim-abene-49909b130/" target="_blank">Karim Abene</a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kabene)](https://hits.seeyoufarm.com)                    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kabene&icon_color=%23E7E7E7)](https://hits.seeyoufarm.com)                    
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Kabene)
+### Glad to see you here! &nbsp; 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/karim-abene-49909b130/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/abenekarimabene/)
 
